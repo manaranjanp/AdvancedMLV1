@@ -8,6 +8,15 @@ This folder contains notebooks and datasets for advanced ML Algorithms.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/AdvancedMLV1/blob/main/Algorithms/Random_Forest_V1.ipynb)
 
+### Voting Classifier
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/AdvancedMLV1/blob/main/Algorithms/Voting_Classifier_V1.ipynb)
+
+
+### Boosting Classifier
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/AdvancedMLV1/blob/main/Algorithms/Boosting_Classifier_V1.ipynb)
+
 
 
 
