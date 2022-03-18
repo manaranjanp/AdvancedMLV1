@@ -18,7 +18,7 @@ This folder contains notebooks and datasets for advanced ML Algorithms.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/AdvancedMLV1/blob/main/Algorithms/Boosting_Classifier_V1.ipynb)
 
 
-### Scania Truck Failure
+### Scania Truck Failure Prediction
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/AdvancedMLV1/blob/main/Algorithms/Scania_Truck_Failure_Prediction_V1.ipynb)
 
